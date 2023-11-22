@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.ChipGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    app:chipSpacingHorizontal="8dp"
+    app:chipSpacingVertical="8dp">
+
+    <com.google.android.material.chip.Chip
+        style="@style/CustomChipStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="3-я линия" />
+
+    <com.google.android.material.chip.Chip
+        style="@style/CustomChipStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Платный Wi-Fi в фойе" />
+
+    <com.google.android.material.chip.Chip
+        style="@style/CustomChipStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="30 км до аэропорта" />
+
+    <com.google.android.material.chip.Chip
+        style="@style/CustomChipStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="1 км до пляжа" />
+</com.google.android.material.chip.ChipGroup>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <inset
+            android:insetLeft="12dp"
+            android:insetRight="12dp"
+            android:insetTop="8dp"
+            android:insetBottom="10dp"
+            android:drawable="@drawable/vector_up">
+        </inset>
+    </item>
+</layer-list>

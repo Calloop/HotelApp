@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="hotel_title">Отель</string>
+    <string name="hotel_subtitle_2">Об отеле</string>
+    <string name="hotel_menu_item_1">Удобства</string>
+    <string name="hotel_menu_subitem">Самое необходимое</string>
+    <string name="hotel_menu_item_3">Что не включено</string>
+    <string name="hotel_menu_item_2">Что включено</string>
+    <string name="hotel_nav_room">К выбору номера</string>
+    <string name="hotel_subtitle_1">Steigenberger Makadi</string>
+
+    <string name="room_title">Номер</string>
+    <string name="room_nav_booking">Выбрать номер</string>
+    <string name="booking_title">Бронирование</string>
+    <string name="payment_title">Заказ оплачен</string>
+    <string name="payment_info">Подтверждение заказа №%d может занять некоторое время (от 1 часа до суток). Как только мы получим ответ от туроператора, Вам на почту придет уведомление.</string>
+    <string name="payment_info_title">Ваш заказ принят в работу</string>
+</resources>
